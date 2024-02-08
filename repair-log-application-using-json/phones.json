@@ -1,0 +1,36 @@
+[
+    {
+        "make": "apple",
+        "model": "iphone",
+        "problem": "broken",
+        "price": "19.99"
+    },
+    {
+        "repair_id": "12312",
+        "make": "qfqwwe",
+        "model": "qwe",
+        "problem": "qwqww",
+        "price": "22.00"
+    },
+    {
+        "repair_id": "112321",
+        "make": "asdasd",
+        "model": "asdasd",
+        "problem": "asd",
+        "price": "22.00"
+    },
+    {
+        "repair_id": "123123",
+        "make": "qweqwe",
+        "model": "qweqwe",
+        "problem": "qew",
+        "price": "22.00"
+    },
+    {
+        "repair_id": "2123",
+        "make": "dqweqw",
+        "model": "qwe",
+        "problem": "qe",
+        "price": "22.00"
+    }
+]
